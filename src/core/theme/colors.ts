@@ -1,0 +1,62 @@
+export default {
+  screenBackgroundColor: '#F9F8EF',
+  textColor: '#383838',
+
+  white: '#FFFFFF',
+  white50: 'rgba(255, 255, 255, 0.5)',
+  white65: 'rgba(255, 255, 255, 0.65)',
+  white85: 'rgba(255, 255, 255, 0.85)',
+
+  black: '#000000',
+  black2: '#383838',
+
+  gray: '#A1A1A1',
+  gray2: '#9B9B9B',
+  gray3: '#C8C8C8',
+  gray4: '#888888',
+  gray5: '#F1F1F1',
+  gray6: '#C7C7C7',
+  gray7: 'rgba(220, 220, 220, 1)',
+  gray8: '#AFAFAF',
+  gray9: '#D8D8D8',
+  gray10: 'rgba(225,225,225,.65)',
+  gray_dark: '#606060',
+  gray_light: '#909090',
+
+  red: '#FF0000',
+  red2: '#FFEFEF',
+  red3: '#CA0101',
+  red4: '#CA1F1F',
+  red5: '#BB0707',
+  red6: 'rgba(202,0,0,1)',
+  red7: '#C50C0C',
+
+  pink: '#FFEEEE',
+
+  blue: '#EBF8FF',
+  blue2: '#0075FF',
+
+  brown: '#6D4833',
+  brown2: '#714831',
+  brown3: '#FFD584',
+
+  goldLight: '#C3B375',
+  lightYellow: '#F9F8EF',
+  brownLight: '#7A5A48',
+  yellow3: '#BB9B25',
+  yellow4: '#FFFEF3',
+  yellow5: '#C2A640',
+  yellow6: '#FFFCDE',
+  yellow7: '#F3EEBD',
+
+  transparent: 'transparent',
+  transparent8: 'rgba(0,0,0, 0.08)',
+  transparent10: 'rgba(0,0,0, 0.1)',
+  transparent20: 'rgba(0,0,0, 0.2)',
+  transparent30: 'rgba(0,0,0, 0.3)',
+  transparent40: 'rgba(0,0,0, 0.4)',
+  transparent50: 'rgba(0,0,0, 0.5)',
+  transparent60: 'rgba(0,0,0, 0.6)',
+  transparent70: 'rgba(0,0,0, 0.7)',
+  transparent85: 'rgba(0,0,0, 0.85)',
+};
